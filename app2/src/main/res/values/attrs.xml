@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarAttrs">
+        <attr name="circle_text_color" format="color"></attr>
+        <attr name="top_bottom_text_right_color" format="color"></attr>
+        <attr name="top_bottom_text_error_color" format="color"></attr>
+        <attr name="pre_circle_color" format="color"></attr>
+        <attr name="current_circle_color" format="color"></attr>
+        <attr name="post_circle_color" format="color"></attr>
+        <attr name="line_color" format="color"></attr>
+        <attr name="line_height" format="float"></attr>
+    </declare-styleable>
+</resources>
